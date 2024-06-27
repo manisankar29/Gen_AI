@@ -1,1 +1,3 @@
-# Gen AI
+# Generative AI
+
+## Table of Contents
